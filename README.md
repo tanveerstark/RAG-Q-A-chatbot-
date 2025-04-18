@@ -1,4 +1,3 @@
-### Video Tutorial: https://youtu.be/iA-UhFlIP80
 
 ## Environment setup:
 
